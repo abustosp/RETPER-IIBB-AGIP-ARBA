@@ -23,6 +23,14 @@ Los pasos para ejecutar el bot son los siguientes:
 
     ![Configuración de versión](https://github.com/abustosp/Configuraciones/blob/master/Uipath/Cambiar-a-Studio.png "Configuración de versión")
 
+      - Si no permite hacer este cambio se debe:
+
+        1. Iniciar sesión en Uipath cloud.
+
+        2. Eliminar la organización.
+
+        3. Crear una nueva organización.
+
 4. Descargar el BOT. Acá hay 3 opciones:
    
    1. Descargar el ZIP.
