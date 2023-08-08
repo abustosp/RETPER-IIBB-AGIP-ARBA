@@ -18639,14 +18639,14 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Agustin Bustos\\.nuget\\packages\\": {}
+    "C:\\Users\\ABP\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "RETPER ARBA y AGIP",
       "projectName": "RETPER ARBA y AGIP",
       "projectPath": "F:\\Proyecto Uipath\\RETPER-IIBB-AGIP-ARBA\\.local",
-      "packagesPath": "C:\\Users\\Agustin Bustos\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\ABP\\.nuget\\packages\\",
       "outputPath": "F:\\Proyecto Uipath\\RETPER-IIBB-AGIP-ARBA\\.local"
     },
     "frameworks": {
@@ -18673,7 +18673,7 @@
             "version": "[23.4.5, 23.4.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Agustin Bustos\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "B:\\ProgramFiles\\Uipath\\runtime.json"
       }
     },
     "runtimes": {
