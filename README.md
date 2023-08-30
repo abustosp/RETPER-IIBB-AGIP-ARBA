@@ -70,9 +70,7 @@ Los pasos para ejecutar el bot son los siguientes:
     ![Configuración de descarga](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Descarga-de-Archivos.png "Configuración de descarga")
 
 
-- Para Ejecutar el BOT se debe completar la información de los Excels (hay que tener en cuenta el formato regional de Excel, en algunos casos hay que reemplazar en todas las fórmulas los AAAA por YYYY).
-
-	 - Se deben completar como mínimo 2 Excels: El maestro que contiene las claves y las ubicaciones de los "Excels base" y los "Excels Base" que contienen la información de los comprobantes a emitir.
+- Para Ejecutar el BOT se debe completar la información de los Excels.
 
 - En caso que no se guarden los Archivos con el nombre definido en el Excel se debe modificar la columna "ST" de Excel a "NO"
 
