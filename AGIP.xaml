@@ -1103,7 +1103,7 @@
                               </ui:CursorPosition>
                             </ui:Click.CursorPosition>
                             <ui:Click.Target>
-                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="e598d7c7-9c23-4416-8c69-7a6f717200e0" InformativeScreenshot="abe79b5a90aedf11b4f7f9fef91daa2c" Selector="&lt;webctrl aaname='Salir' /&gt;">
+                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="e598d7c7-9c23-4416-8c69-7a6f717200e0" InformativeScreenshot="abe79b5a90aedf11b4f7f9fef91daa2c" Selector="&lt;webctrl aaname=' Salir' /&gt;">
                                 <ui:Target.TimeoutMS>
                                   <InArgument x:TypeArguments="x:Int32" />
                                 </ui:Target.TimeoutMS>
